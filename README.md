@@ -1,16 +1,12 @@
-### Hi there 👋
+### mdjdot(Dejian Meng)
+>学习的过程就是探索、重复、反思
 
-<!--
-**mdjdot/mdjdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GitHub 统计
+![mdjdot's github stats](https://github-readme-stats.vercel.app/api?username=mdjdot)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 相关链接
+- Blog: [https://dotcore.xyz](https://dotcore.xyz)
+- GitHub Pages:
+    - [https://mdjdot.github.io/gocoreprograming](https://mdjdot.github.io/gocoreprograming)
+    - [https://mdjdot.github.io/gowebprograming](https://mdjdot.github.io/gowebprograming)
+    - [https://dotcorejava.github.io/javaprograming](https://dotcorejava.github.io/javaprograming)
